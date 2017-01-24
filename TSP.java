@@ -3,6 +3,7 @@ import java.text.*;
 class TSP
 {
 int weight[][],n,tour[],finalCost;
+long start,finish;
 final int INF=1000;
 public TSP()
 {
@@ -106,11 +107,16 @@ display();
 public void display()
 {
 System.out.println();
+finish=System.nanoTime();
 System.out.print("Simpul 1-");
 for(int i=0;i<n-1;i++)
 System.out.print((tour[i]+1)+"-");
 System.out.print("1");
 System.out.println();
+start=System.nanoTime();
 System.out.println("Total biaya simpul "+finalCost);
+long waktu = finish-start;
+double detik = (double)waktu/1000000000;
+System.out.println("Waktu eksekusi program: "+detik);
 }
 }

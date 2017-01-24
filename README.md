@@ -17,7 +17,7 @@ Cara menjalankan program
 
 Tugas yang belum selesai
 
-1. Uji coba waktu
+1. Uji coba waktu +
 
 2. Terjemahan kode sumber
 
