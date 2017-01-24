@@ -1,5 +1,6 @@
 # analog-bruteforce
 Tugas analog TI Gab Reg 4
+
 1. Souce code / program
 
 2. Execution file (exe/jar)
