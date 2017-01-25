@@ -21,4 +21,10 @@ Tugas yang belum selesai
 
 2. Terjemahan kode sumber
 
-3. Perhitungan Big O 
+3. Perhitungan Big O
+
+4. Execution file (jar) +
+
+Catatan
+1. uji coba waktu perlu tes logika
+2. execution file jar berhasil dibuat di ubuntu 12.04, oracle java 8, perlu di tes di platform lain
