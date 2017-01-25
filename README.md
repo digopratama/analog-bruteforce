@@ -15,6 +15,8 @@ Cara menjalankan program
 
 2. Jalankan dengan perintah "java TSPExp"
 
+3. buat jar file dengan perintah "jar cvfe analog_tsp_bruteforce.jar MANIFEST.MF *.class"
+
 Tugas yang belum selesai
 
 1. Uji coba waktu +
