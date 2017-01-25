@@ -26,5 +26,7 @@ Tugas yang belum selesai
 4. Execution file (jar) +
 
 Catatan
+
 1. uji coba waktu perlu tes logika
+
 2. execution file jar berhasil dibuat di ubuntu 12.04, oracle java 8, perlu di tes di platform lain
