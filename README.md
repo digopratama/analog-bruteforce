@@ -23,7 +23,7 @@ Tugas yang belum selesai
 
 2. Terjemahan kode sumber
 
-3. Perhitungan Big O
+3. Perhitungan Big O +
 
 4. Execution file (jar) +
 
